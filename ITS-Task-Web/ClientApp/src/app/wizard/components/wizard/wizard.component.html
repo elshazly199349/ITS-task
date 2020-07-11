@@ -1,0 +1,60 @@
+<!--display steps-->
+<div class="card mt-3 mb-3">
+    <div class="card-body">
+        <div *ngIf="steps" class="row">
+            <table class="table table-bordered">
+                <tr>
+                    <thead>
+                            <th *ngFor="let step of steps;let i=index" (click)="moveStep(1)" 
+                            [style.background-color]="i==curser ? '#d6d0d0': null">
+                                <app-step class="col-md-3" [step]="step" (delete)="deleteStep($event)"></app-step>
+                            </th>
+                            <th><a href="#" (click)="createStepDisplayed=true">+</a></th>
+                    </thead>
+                </tr>
+            </table>
+    </div>
+    </div>
+</div>
+
+<!--create new item-->
+<div class="row">
+    <div class="col-md-10"></div>
+    <div class="col-md-2">
+        <button class="btn btn-primary" (click)="createItemDisplayed=true">add new item</button>
+    </div>
+</div>
+
+<!--display selected items-->
+<div *ngIf="selectedItems">
+    <div class="row" *ngFor="let item of selectedItems">
+        <div class="col-md-12">
+            <button class="btn btn-primary" (click)="selectItemtoUpdate(item.id)">{{item.title}}</button>
+            <app-item [item]="item" (delete)="deleteItem($event)"></app-item>
+        </div>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-body">
+        <!--create new step-->
+    <div class="row" *ngIf="createStepDisplayed">
+        <app-create-step (manipulateStepComp)="manipulateStepComp($event)"></app-create-step>    
+    </div>
+    
+    <!--create new item-->
+    <div class="row" *ngIf="createItemDisplayed">
+        <app-create-item [stepId]="selectedStepId" [itemId]="selectedItemId" (manipulateitemComp)="manipulateitemComp($event)"></app-create-item>
+    </div>
+
+    <div class="row mt-3">
+            <div  class="col-md-6">
+                <button class="btn btn-primary" (click)="moveStep(1)">next</button>
+            </div>
+            <div  class="col-md-6">
+                <button class="btn btn-primary" (click)="moveStep(-1)">back</button>
+            </div>
+        </div>
+
+    </div>
+</div>

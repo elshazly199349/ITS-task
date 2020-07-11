@@ -1,0 +1,15 @@
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\bin\Debug\netcoreapp3.1\DomainModels.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\bin\Debug\netcoreapp3.1\DomainModels.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache
+E:\Omar\Projects\ITS-Task\ITS-Task\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache

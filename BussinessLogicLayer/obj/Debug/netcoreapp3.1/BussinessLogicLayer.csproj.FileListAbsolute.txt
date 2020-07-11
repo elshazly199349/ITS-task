@@ -1,0 +1,14 @@
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.deps.json
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csprojAssemblyReference.cache
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.AssemblyInfoInputs.cache
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.AssemblyInfo.cs
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\bin\Debug\netcoreapp3.1\DomainModels.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\bin\Debug\netcoreapp3.1\DomainModels.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csproj.CopyComplete

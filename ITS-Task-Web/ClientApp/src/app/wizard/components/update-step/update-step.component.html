@@ -1,0 +1,29 @@
+<p>update-step works!</p>
+
+<div class="row">
+    <div class="col-dm-6">
+        <form #f="ngForm" (ngSubmit)="updateStep(f.value)">
+            
+            <div class="alert alert-warning alert-dismissible fade show" *ngIf="errorMessage" role="alert">
+                <p>{{errorMessage}}</p>
+                <button type="button" (click)="closeErrorDiv()" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+            </div>
+
+            <input #id="ngModel" [(ngModel)]="step.id" name="id" type="hidden" id="id" required> 
+            <div class="row form-group">
+                <label for="name" class="col-md-4">step name</label>
+                <div class="col-md-8">
+                    <input #name="ngModel" [(ngModel)]="step.name" name="name" type="text" id="name" class="form-control" required>
+                    <div class="alert alert-danger" *ngIf=" name.touched && name.invalid">
+                        name is required.
+                    </div>
+                </div>
+            </div>
+
+            <button class="row col-md-2 col-md-offest-4" [disabled]="!f.valid" class="btn btn-primary">update</button>
+
+        </form>
+    </div>
+</div>

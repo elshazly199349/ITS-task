@@ -1,0 +1,39 @@
+<p>update-item works!</p>
+
+<div class="row">
+    <div class="col-dm-6" *ngIf="item">
+        <form #f="ngForm" (ngSubmit)="updateItem(f.value)">
+            
+            <div class="alert alert-warning alert-dismissible fade show" *ngIf="errorMessage" role="alert">
+                <p>{{errorMessage}}</p>
+                <button type="button" (click)="closeErrorDiv()" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+            </div>
+
+            <input #id="ngModel" [(ngModel)]="item.id" name="id" type="hidden" id="id" required> 
+            <input #stepId="ngModel" [(ngModel)]="item.stepId" name="stepId" type="hidden" id="stepId" required> 
+            <div class="row form-group">
+                <label for="title" class="col-md-4">item title</label>
+                <div class="col-md-8">
+                    <input #title="ngModel" [(ngModel)]="item.title" name="title" type="text" id="title" class="form-control" required>
+                    <div class="alert alert-danger" *ngIf=" title.touched && title.invalid">
+                        title is required.
+                    </div>
+                </div>
+            </div>
+
+            <div class="row form-group">
+                <label for="description" class="col-md-4">item description</label>
+                <div class="col-md-8">
+                    <input #description="ngModel" [(ngModel)]="item.description" name="description" type="text" id="description" class="form-control" required>
+                    <div class="alert alert-danger" *ngIf=" description.touched && description.invalid">
+                        description is required.
+                    </div>
+                </div>
+            </div>
+            <button class="row col-md-2 col-md-offest-4" [disabled]="!f.valid" class="btn btn-primary">update</button>
+
+        </form>
+    </div>
+</div>

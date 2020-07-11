@@ -1,0 +1,11 @@
+<div class="card mt-3 mb-3">
+    <div class="card-body">
+        <div class="row">
+            <div *ngIf="item" class="col-md-12">
+                <!-- <p>item Id: {{item.id}}</p> -->
+                <p>title: {{item.title}} &nbsp;&nbsp; <span class="alert alter-danger"> <a href="#" (click)="deleteItem()">-</a></span></p>
+                <p>description: {{item.description}}</p>
+            </div>
+        </div>
+    </div>
+</div>

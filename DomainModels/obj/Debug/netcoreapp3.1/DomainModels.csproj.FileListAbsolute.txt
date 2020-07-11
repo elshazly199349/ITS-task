@@ -1,0 +1,9 @@
+E:\Omar\Projects\ITS-Task\ITS-Task\DomainModels\bin\Debug\netcoreapp3.1\DomainModels.deps.json
+E:\Omar\Projects\ITS-Task\ITS-Task\DomainModels\bin\Debug\netcoreapp3.1\DomainModels.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\DomainModels\obj\Debug\netcoreapp3.1\DomainModels.AssemblyInfoInputs.cache
+E:\Omar\Projects\ITS-Task\ITS-Task\DomainModels\obj\Debug\netcoreapp3.1\DomainModels.AssemblyInfo.cs
+E:\Omar\Projects\ITS-Task\ITS-Task\DomainModels\bin\Debug\netcoreapp3.1\DomainModels.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\DomainModels\obj\Debug\netcoreapp3.1\DomainModels.csproj.CoreCompileInputs.cache
+E:\Omar\Projects\ITS-Task\ITS-Task\DomainModels\obj\Debug\netcoreapp3.1\DomainModels.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\DomainModels\obj\Debug\netcoreapp3.1\DomainModels.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\DomainModels\obj\Debug\netcoreapp3.1\DomainModels.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\bin\Debug\netcoreapp3.1\ContainerLayer.deps.json
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\bin\Debug\netcoreapp3.1\ContainerLayer.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\bin\Debug\netcoreapp3.1\ContainerLayer.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\obj\Debug\netcoreapp3.1\ContainerLayer.csprojAssemblyReference.cache
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\obj\Debug\netcoreapp3.1\ContainerLayer.AssemblyInfoInputs.cache
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\obj\Debug\netcoreapp3.1\ContainerLayer.AssemblyInfo.cs
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\obj\Debug\netcoreapp3.1\ContainerLayer.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\obj\Debug\netcoreapp3.1\ContainerLayer.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\bin\Debug\netcoreapp3.1\DomainModels.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\bin\Debug\netcoreapp3.1\DomainModels.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\obj\Debug\netcoreapp3.1\ContainerLayer.csproj.CopyComplete
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\obj\Debug\netcoreapp3.1\ContainerLayer.csproj.CoreCompileInputs.cache

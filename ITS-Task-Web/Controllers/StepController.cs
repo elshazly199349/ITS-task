@@ -1,7 +1,7 @@
 ﻿using System;
-using BussinessLogicLayer.Intefaces;
-using DomainModels.DTOs;
 using Microsoft.AspNetCore.Mvc;
+using DomainModels.DTOs;
+using InterfacesLayer.Intefaces;
 
 namespace ITS_Task_Web.Controllers
 {

@@ -1,6 +1,6 @@
 ﻿using DataAccessLayer.Repository.Interfaces;
 
-namespace BussinessLogicLayer.Intefaces
+namespace InterfacesLayer.Intefaces
 {
     public interface IStepManager:IStepRepository
     {

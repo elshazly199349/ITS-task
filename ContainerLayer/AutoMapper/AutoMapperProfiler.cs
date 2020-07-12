@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
+using DataAccessLayer.Models;
 using DomainModels.DTOs;
-using DomainModels.Models;
 
-namespace DomainModels.AutoMapper
+namespace ContainerLayer.AutoMapper
 {
     public class AutoMapperProfiler:Profile
     {

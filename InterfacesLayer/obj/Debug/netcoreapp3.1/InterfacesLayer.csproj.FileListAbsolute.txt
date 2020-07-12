@@ -1,0 +1,14 @@
+E:\Omar\Projects\ITS-Task\ITS-Task\InterfacesLayer\bin\Debug\netcoreapp3.1\InterfacesLayer.deps.json
+E:\Omar\Projects\ITS-Task\ITS-Task\InterfacesLayer\bin\Debug\netcoreapp3.1\InterfacesLayer.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\InterfacesLayer\bin\Debug\netcoreapp3.1\InterfacesLayer.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\InterfacesLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\InterfacesLayer\bin\Debug\netcoreapp3.1\DomainModels.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\InterfacesLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\InterfacesLayer\bin\Debug\netcoreapp3.1\DomainModels.pdb
+E:\Omar\Projects\ITS-Task\ITS-Task\InterfacesLayer\obj\Debug\netcoreapp3.1\InterfacesLayer.csprojAssemblyReference.cache
+E:\Omar\Projects\ITS-Task\ITS-Task\InterfacesLayer\obj\Debug\netcoreapp3.1\InterfacesLayer.csproj.CoreCompileInputs.cache
+E:\Omar\Projects\ITS-Task\ITS-Task\InterfacesLayer\obj\Debug\netcoreapp3.1\InterfacesLayer.AssemblyInfoInputs.cache
+E:\Omar\Projects\ITS-Task\ITS-Task\InterfacesLayer\obj\Debug\netcoreapp3.1\InterfacesLayer.AssemblyInfo.cs
+E:\Omar\Projects\ITS-Task\ITS-Task\InterfacesLayer\obj\Debug\netcoreapp3.1\InterfacesLayer.csproj.CopyComplete
+E:\Omar\Projects\ITS-Task\ITS-Task\InterfacesLayer\obj\Debug\netcoreapp3.1\InterfacesLayer.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\InterfacesLayer\obj\Debug\netcoreapp3.1\InterfacesLayer.pdb

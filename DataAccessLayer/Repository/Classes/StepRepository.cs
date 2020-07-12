@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
+using DataAccessLayer.Models;
 using DataAccessLayer.Repository.Interfaces;
-using DomainModels.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace DataAccessLayer.Repository.Classes

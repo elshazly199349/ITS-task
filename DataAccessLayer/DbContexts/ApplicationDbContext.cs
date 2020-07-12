@@ -1,4 +1,4 @@
-﻿using DomainModels.Models;
+﻿using DataAccessLayer.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 

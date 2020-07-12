@@ -1,5 +1,5 @@
-﻿using BussinessLogicLayer.Intefaces;
-using DomainModels.DTOs;
+﻿using DomainModels.DTOs;
+using InterfacesLayer.Intefaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ITS_Task_Web.Controllers

@@ -1,4 +1,4 @@
-﻿using DomainModels.Models;
+﻿using DataAccessLayer.Models;
 
 namespace DataAccessLayer.Repository.Interfaces
 {

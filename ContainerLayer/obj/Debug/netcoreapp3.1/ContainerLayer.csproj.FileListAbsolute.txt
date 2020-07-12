@@ -14,3 +14,5 @@ E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\bin\Debug\netcoreapp3.1\DataAc
 E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.dll
 E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.pdb
 E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\obj\Debug\netcoreapp3.1\ContainerLayer.csproj.CoreCompileInputs.cache
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\bin\Debug\netcoreapp3.1\InterfacesLayer.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\ContainerLayer\bin\Debug\netcoreapp3.1\InterfacesLayer.pdb

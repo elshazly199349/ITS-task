@@ -12,3 +12,5 @@ E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\bin\Debug\netcoreapp3.1\D
 E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
 E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\bin\Debug\netcoreapp3.1\DomainModels.pdb
 E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csproj.CopyComplete
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\bin\Debug\netcoreapp3.1\InterfacesLayer.dll
+E:\Omar\Projects\ITS-Task\ITS-Task\BussinessLogicLayer\bin\Debug\netcoreapp3.1\InterfacesLayer.pdb

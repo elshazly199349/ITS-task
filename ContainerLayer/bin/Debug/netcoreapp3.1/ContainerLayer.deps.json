@@ -929,7 +929,8 @@
       },
       "BussinessLogicLayer/1.0.0": {
         "dependencies": {
-          "DataAccessLayer": "1.0.0"
+          "DataAccessLayer": "1.0.0",
+          "InterfacesLayer": "1.0.0"
         },
         "runtime": {
           "BussinessLogicLayer.dll": {}
@@ -951,6 +952,15 @@
         },
         "runtime": {
           "DomainModels.dll": {}
+        }
+      },
+      "InterfacesLayer/1.0.0": {
+        "dependencies": {
+          "DataAccessLayer": "1.0.0",
+          "DomainModels": "1.0.0"
+        },
+        "runtime": {
+          "InterfacesLayer.dll": {}
         }
       }
     }
@@ -1623,6 +1633,11 @@
       "sha512": ""
     },
     "DomainModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterfacesLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

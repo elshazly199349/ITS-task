@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace DomainModels.Models
+namespace DataAccessLayer.Models
 {
     public class Step
     {

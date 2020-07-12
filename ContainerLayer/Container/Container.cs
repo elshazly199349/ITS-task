@@ -1,10 +1,10 @@
 ﻿using AutoMapper;
-using BussinessLogicLayer.Classes;
-using BussinessLogicLayer.Intefaces;
-using DataAccessLayer.DbContexts;
-using DomainModels.AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using DataAccessLayer.DbContexts;
+using BussinessLogicLayer.Classes;
+using InterfacesLayer.Intefaces;
+using ContainerLayer.AutoMapper;
 
 namespace ContainerLayer.Container
 {

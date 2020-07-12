@@ -1348,6 +1348,20 @@
         "runtime": {
           "bin/placeholder/DomainModels.dll": {}
         }
+      },
+      "InterfacesLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DataAccessLayer": "1.0.0",
+          "DomainModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InterfacesLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InterfacesLayer.dll": {}
+        }
       }
     }
   },
@@ -5149,11 +5163,17 @@
       "type": "project",
       "path": "../DomainModels/DomainModels.csproj",
       "msbuildProject": "../DomainModels/DomainModels.csproj"
+    },
+    "InterfacesLayer/1.0.0": {
+      "type": "project",
+      "path": "../InterfacesLayer/InterfacesLayer.csproj",
+      "msbuildProject": "../InterfacesLayer/InterfacesLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "DataAccessLayer >= 1.0.0"
+      "DataAccessLayer >= 1.0.0",
+      "InterfacesLayer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5188,6 +5208,9 @@
           "projectReferences": {
             "E:\\Omar\\Projects\\ITS-Task\\ITS-Task\\DataAccessLayer\\DataAccessLayer.csproj": {
               "projectPath": "E:\\Omar\\Projects\\ITS-Task\\ITS-Task\\DataAccessLayer\\DataAccessLayer.csproj"
+            },
+            "E:\\Omar\\Projects\\ITS-Task\\ITS-Task\\InterfacesLayer\\InterfacesLayer.csproj": {
+              "projectPath": "E:\\Omar\\Projects\\ITS-Task\\ITS-Task\\InterfacesLayer\\InterfacesLayer.csproj"
             }
           }
         }
